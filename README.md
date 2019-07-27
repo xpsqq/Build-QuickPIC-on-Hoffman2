@@ -18,10 +18,10 @@ Use `module list` to check loaded modules. Here is my module list
 Build json-fortran
 ---
 
-Run the following command to build json-fortran（just an example, you can build the json-fortran any where）
+Run the following command to build json-fortran（just an example, you can build the json-fortran any where）, use an old version of json. https://github.com/jacobwilliams/json-fortran/releases/tag/6.9.0
 
 ~~~
-git clone https://github.com/UCLA-Plasma-Simulation-Group/QuickPIC-OpenSource.git
+git clone 
 cd json-fortran
 mkdir build
 cd build
